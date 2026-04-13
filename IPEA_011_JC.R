@@ -6,7 +6,7 @@
 #             e resultados do IDEB (2017–2023), por etapa de ensino e rede.
 # Autor     : Jose Carlos Martinez 
 # =============================================================================
-# RESULTADOS REAIS OBTIDOS (análise executada em Python com os microdados):
+# RESULTADOS REAIS OBTIDOS:
 #   AI Municipal  | r(ISI,IDEB)=0.397 | beta_ISI=3.032 | R²=0.165 | n=35.498
 #   AF Municipal  | r(ISI,IDEB)=0.378 | beta_ISI=2.246 | R²=0.146 | n=17.218
 #   EM Estadual   | r(ISI,IDEB)=0.293 | beta_ISI=1.631 | R²=0.091 | n=14.226
